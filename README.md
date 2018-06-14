@@ -1,3 +1,3 @@
 # readme
 First GitHub
-Read me in master brach
+Read me in editing in edit branch
